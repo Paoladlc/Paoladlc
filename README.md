@@ -47,9 +47,6 @@ y diseño de soluciones BI orientadas a transformar datos en decisiones.
 
 ---
 
-### 📬 Contacto
-[
+## 📬 Contacto
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
-
-](https://www.linkedin.com/in/paola-de-la-cruz-b151b21a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/paola-de-la-cruz-b151b21a7)
